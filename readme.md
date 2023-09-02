@@ -14,3 +14,6 @@
 13.在运动过程中增加交融半径并在安全部位增加速度和加速度来提高运行速度，提高工作效率，但同时也要考虑运动的安全性和稳定性，防止出现安全风险
 
 #UR5e在ubuntu20下的环境配置
+rosdepc update//更新ROS环境
+rosdep install --from-paths src --ignore-src --rosdistro noetic//根据新加入的功能包安装依赖
+
