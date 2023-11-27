@@ -145,6 +145,19 @@ Universal_Robots_ROS_Driver/ur_robot_driver/CMakeFiles/ur_robot_driver_plugin.di
  /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_dashboard_msgs/RawRequestResponse.h
  /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_dashboard_msgs/RobotMode.h
  /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_dashboard_msgs/SafetyMode.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/Analog.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/Digital.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/IOStates.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/SetIO.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/SetIORequest.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/SetIOResponse.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/SetPayload.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/SetPayloadRequest.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/SetPayloadResponse.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/SetSpeedSliderFraction.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/SetSpeedSliderFractionRequest.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/SetSpeedSliderFractionResponse.h
+ /home/will/Tutorial_to_UR5e/catkin_ws/devel/include/ur_msgs/ToolDataMsg.h
  /home/will/Tutorial_to_UR5e/catkin_ws/src/Universal_Robots_ROS_Driver/ur_robot_driver/include/ur_robot_driver/dashboard_client_ros.h
  /home/will/Tutorial_to_UR5e/catkin_ws/src/Universal_Robots_ROS_Driver/ur_robot_driver/include/ur_robot_driver/hardware_interface.h
  /home/will/Tutorial_to_UR5e/catkin_ws/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp
@@ -329,22 +342,10 @@ Universal_Robots_ROS_Driver/ur_robot_driver/CMakeFiles/ur_robot_driver_plugin.di
  /opt/ros/noetic/include/ur_client_library/rtde/text_message.h
  /opt/ros/noetic/include/ur_client_library/types.h
  /opt/ros/noetic/include/ur_client_library/ur/dashboard_client.h
+ /opt/ros/noetic/include/ur_client_library/ur/robot_receive_timeout.h
  /opt/ros/noetic/include/ur_client_library/ur/tool_communication.h
  /opt/ros/noetic/include/ur_client_library/ur/ur_driver.h
  /opt/ros/noetic/include/ur_client_library/ur/version_information.h
- /opt/ros/noetic/include/ur_msgs/Analog.h
- /opt/ros/noetic/include/ur_msgs/Digital.h
- /opt/ros/noetic/include/ur_msgs/IOStates.h
- /opt/ros/noetic/include/ur_msgs/SetIO.h
- /opt/ros/noetic/include/ur_msgs/SetIORequest.h
- /opt/ros/noetic/include/ur_msgs/SetIOResponse.h
- /opt/ros/noetic/include/ur_msgs/SetPayload.h
- /opt/ros/noetic/include/ur_msgs/SetPayloadRequest.h
- /opt/ros/noetic/include/ur_msgs/SetPayloadResponse.h
- /opt/ros/noetic/include/ur_msgs/SetSpeedSliderFraction.h
- /opt/ros/noetic/include/ur_msgs/SetSpeedSliderFractionRequest.h
- /opt/ros/noetic/include/ur_msgs/SetSpeedSliderFractionResponse.h
- /opt/ros/noetic/include/ur_msgs/ToolDataMsg.h
  /opt/ros/noetic/include/xmlrpcpp/XmlRpcDecl.h
  /opt/ros/noetic/include/xmlrpcpp/XmlRpcValue.h
  /usr/include/eigen3/Eigen/Cholesky
